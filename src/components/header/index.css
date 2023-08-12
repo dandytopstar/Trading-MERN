@@ -1,0 +1,8 @@
+.logo{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.border{
+    border: 1px solid white;
+}

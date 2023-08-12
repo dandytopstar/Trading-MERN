@@ -1,0 +1,29 @@
+.order_history{
+    color: white;
+    margin-top: 16px;
+    padding: 8px;
+    padding-bottom: 32px;
+}
+.table_header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid white;
+}
+
+.table_body{
+    display: flex;
+    justify-content: space-between;
+}
+.tab{
+    border-width: 1px 0px 0px 0px;
+    border-style: solid;
+    border-color: white;
+}
+
+.tab-selected{
+    border-width: 0px 1px 1px 1px;
+    border-style: solid;
+    border-color: white;
+    color: rgb(71, 163, 250);
+    transition: color 0.5s;
+}

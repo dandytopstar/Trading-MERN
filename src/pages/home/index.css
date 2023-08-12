@@ -1,0 +1,26 @@
+.logo{
+	color: white;
+	font-size: 32px;
+}
+.order_section{
+	display: flex;
+	flex-wrap: nowrap;
+	text-align: left;
+	color: white;
+}
+.tradingview_chart{
+	width: 50%
+}
+.order_market_tab{
+	margin: 4px;
+	cursor: pointer;
+}
+.order_market_tab_clicked{
+	margin: 4px;
+	cursor: pointer;
+	border-bottom: 1px solid white;
+}
+.full-content{
+	height: 100vh;
+	margin: 0;
+}
